@@ -11,7 +11,7 @@ Scientist, National Radio Astronomy Observatory
 [Twitter](https://www.twitter.com/vizastro/), [Instagram](https://www.instagram.com/vizastro/), [YouTube](https://www.youtube.com/user/VisualizeAstronomy):  @VizAstro     
 https://www.cv.nrao.edu/~bkent/
 
-Demo video: [https://www.youtube.com/watch?v=SeWVL90IWfo](https://youtu.be/L0Vpju5Mwig)
+Demo video: https://www.youtube.com/watch?v=L0Vpju5Mwig
 
 Royce Institute website: https://www.royce.ac.uk/events/stand-out-skills-webinar-3d-scientific-visualization-with-blender/
 
